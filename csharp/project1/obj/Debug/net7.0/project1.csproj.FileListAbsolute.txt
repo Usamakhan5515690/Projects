@@ -1,0 +1,14 @@
+d:\Projects\csharp\project1\obj\Debug\net7.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\csharp\project1\obj\Debug\net7.0\project1.AssemblyInfoInputs.cache
+d:\Projects\csharp\project1\obj\Debug\net7.0\project1.AssemblyInfo.cs
+d:\Projects\csharp\project1\obj\Debug\net7.0\project1.csproj.CoreCompileInputs.cache
+d:\Projects\csharp\project1\bin\Debug\net7.0\project1.exe
+d:\Projects\csharp\project1\bin\Debug\net7.0\project1.deps.json
+d:\Projects\csharp\project1\bin\Debug\net7.0\project1.runtimeconfig.json
+d:\Projects\csharp\project1\bin\Debug\net7.0\project1.dll
+d:\Projects\csharp\project1\bin\Debug\net7.0\project1.pdb
+d:\Projects\csharp\project1\obj\Debug\net7.0\project1.dll
+d:\Projects\csharp\project1\obj\Debug\net7.0\refint\project1.dll
+d:\Projects\csharp\project1\obj\Debug\net7.0\project1.pdb
+d:\Projects\csharp\project1\obj\Debug\net7.0\project1.genruntimeconfig.cache
+d:\Projects\csharp\project1\obj\Debug\net7.0\ref\project1.dll
